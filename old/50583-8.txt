@@ -1,4 +1,36 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50583 ***
+Project Gutenberg's The Taking of Louisburg 1745, by Samuel Adams Drake
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Taking of Louisburg 1745
+
+Author: Samuel Adams Drake
+
+Release Date: December 1, 2015 [EBook #50583]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE TAKING OF LOUISBURG 1745 ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
 
     [Illustration: W^m Pepperrell]
 
@@ -14,12 +46,12 @@
 
                                    BY
                            SAMUEL ADAMS DRAKE
-              AUTHOR OF “BURGOYNE’S INVASION OF 1777” ETC.
+              AUTHOR OF "BURGOYNE'S INVASION OF 1777" ETC.
 
 
                             BOSTON MDCCCXCI
                        LEE AND SHEPARD PUBLISHERS
-           10 MILK STREET NEXT “THE OLD SOUTH MEETING HOUSE”
+           10 MILK STREET NEXT "THE OLD SOUTH MEETING HOUSE"
                       NEW YORK CHAS. T. DILLINGHAM
                           718 AND 720 BROADWAY
 
@@ -36,8 +68,8 @@
   I. Colonial Seacoast Defences                                         9
   II. Louisburg Revisited                                              13
   III. Louisburg to Solve Important Political and Military Problems    24
-  IV. Résumé of Events to the Declaration of War                       33
-  V. “Louisburg must be taken”                                         46
+  IV. R�sum� of Events to the Declaration of War                       33
+  V. "Louisburg must be taken"                                         46
   VI. The Army and its General                                         59
   VII. The Army at Canso                                               73
   VIII. The Siege                                                      80
@@ -96,7 +128,7 @@ adopt a system of defence for Canada, or see Canada wrested from her
 control. In a most sweeping sense the St. Lawrence was the open gateway
 of Canada. There was absolutely no other means of access to all its vast
 territory except through the long, little known, and scarce-travelled
-course of the Mississippi—a route which, for many reasons besides its
+course of the Mississippi--a route which, for many reasons besides its
 isolation, removed it from consideration as an avenue of attack.
 
 Quebec was as truly the heart of Canada as the St. Lawrence was its
@@ -104,7 +136,7 @@ great invigorating, life-giving artery. It is true that Quebec began to
 assume at a very early day something of its later character as half
 city, half fortress, but the views of its founders were unquestionably
 controlled as much by the fact of remoteness from the sea, as by
-Quebec’s remarkable natural capabilities for blocking the path to an
+Quebec's remarkable natural capabilities for blocking the path to an
 enemy.
 
 Yet even before the memorable and decisive battle on the Plains of
@@ -152,7 +184,7 @@ antique stronghold, looming large in the distance, just as the history
 of the fortress itself looms up out of its epoch. On the contrary, we
 saw a low, tame coast, without either prominent landmark or seamark to
 denote the harbor, except to those who know every rock and tree upon it,
-lifting nowhere the castellated ruins that one’s eyes are strained to
+lifting nowhere the castellated ruins that one's eyes are strained to
 seek, and chiefly formidable now on account of the outlying shoals,
 sunken reefs, and intricate passages that render the navigation both
 difficult and dangerous to seamen.
@@ -204,7 +236,7 @@ sea, forces its way at flood-tide. There is a settlement or two upon
 this stream, as there was far back in the time of the French occupation,
 but everything about the country wears a forlorn and unprosperous look;
 the farms being few and far between, the houses poor, the land thin and
-cold, and the people—I mean them no disparagement—much like the land,
+cold, and the people--I mean them no disparagement--much like the land,
 from which they get just enough to live upon, and no more. Fortunately
 their wants are few, and their habits simple.
 
@@ -214,7 +246,7 @@ Louisburg is certainly well worth going nine hundred miles to see, but
 when, at last, one stands on the grass-grown ramparts, and gets his
 first serious idea of their amazing strength and extent, curiosity is
 lost in wonder, wonder gives way to reflection, and reflection leads
-straight to the question, “What do all these miles of earthworks mean?”
+straight to the question, "What do all these miles of earthworks mean?"
 And I venture to make the assertion that no one who has ever been to
 Louisburg will rest satisfied till he has found his answer. The story is
 long, but one rises from its perusal with a clearer conception of the
@@ -262,10 +294,10 @@ carried out. All that one sees to-day, in room of it, is a poor fishing
 hamlet, straggling along the edge of the harbor, the dwellings being on
 one side, and the fish-houses and stages on the other side of the Sydney
 road, which suddenly contracts into a lane, and then comes to an end,
-along with the village itself, in a fisherman’s back-yard.
+along with the village itself, in a fisherman's back-yard.
 
 Not so, however, with the still massive earthworks, for the British
-engineers were only able, after many months’ labor, and with a liberal
+engineers were only able, after many months' labor, and with a liberal
 use of powder, to partly execute the work of demolition assigned them.
 
 I spent several hours, at odd times, in wandering about these old ruins,
@@ -273,15 +305,15 @@ and could not help being thankful that for once, at least, the
 destroying hand of man had been compelled to abandon its work to the
 rains and frosts of heaven.
 
-Citadel or King’s Bastion.
+Citadel or King's Bastion.
 
 Beginning with the citadel, in which the formalities of the surrender
 took place, I found it still quite well defined, although nothing now
 remains above ground except some old foundation walls to show where long
 ranges of stone buildings once stood. Here were the different military
-offices, the officers’ quarters and the chapel. The shattered
+offices, the officers' quarters and the chapel. The shattered
 bomb-proofs, however, were still distinguishable, though much choked up
-with débris, and their well-turned arches remain to show how firmly the
+with d�bris, and their well-turned arches remain to show how firmly the
 solid masonry resisted the assaults of the engineers. In these damp
 holes the women, children, and non-combatants passed most of the
 forty-seven days of the siege. From this starting-point one may continue
@@ -313,11 +345,11 @@ promise to hold together for another century at least. Brambles and
 fallen earth choke up the embrasures. It is necessary to use care in
 order to avoid treading upon a toad or a snake while you are groping
 among the mouldy casemates or when crossing the parade. Those magical
-words “In the King’s name,” so often proclaimed here with salvos of
+words "In the King's name," so often proclaimed here with salvos of
 artillery, have now no echo except in the sullen dash of the sea against
 the rocky shores outside the perishing fortress, and
 
-  “What care these roarers for the name of King?”
+  "What care these roarers for the name of King?"
 
 Graveyard, Point Rochefort.
 
@@ -432,9 +464,9 @@ what a mercantile monopoly having its silent partners in the local
 government and church, as well as in the royal palace itself, had been
 able to do in the way of retarding the development of the great native
 resources of Canada. It was so ably done that no voice was raised
-against it. And with this most lucid and fearless exposé of the puerile
+against it. And with this most lucid and fearless expos� of the puerile
 use thus far made of those resources the memorialist statesmen hoped to
-open the king’s eyes.
+open the king's eyes.
 
 The two Raudots offer a Remedy.
 
@@ -480,7 +512,7 @@ These were considerations of such high national importance as to at once
 secure for the project an attention which purely strategic views could
 hardly be expected to command. And yet, the forming of a military and
 naval depot, strong enough to guarantee the security of the proposed
-port, and in which the king’s ships might at need refit, or take refuge,
+port, and in which the king's ships might at need refit, or take refuge,
 or sally out upon an enemy, was an essential feature of this elaborate
 plan, every detail of which was set forth with systematic exactness. For
 seven years the project was pressed upon the French court. War, however,
@@ -493,7 +525,7 @@ to take energetic measures for the security of her colonial possessions.
 Peace of Utrecht.
 
 By this treaty of Utrecht France surrendered to England all Nova Scotia,
-all her conquests in Hudson’s Bay, with Placentia, her most important
+all her conquests in Hudson's Bay, with Placentia, her most important
 establishment in Newfoundland. At the same time the treaty left Cape
 Breton to France, an act of incomparable folly on the part of the
 English plenipotentiaries who, with the map lying open before them, thus
@@ -509,8 +541,8 @@ French court to determine which of the island ports would be best
 adapted to the purpose, St. Anne, on the north, or English Harbor on the
 south-east coast. St. Anne was a safe and excellent haven, easily made
 impregnable, with all the materials requisite for building and
-fortifying to be found near the spot. Behind it lay the fertile côtes of
-the beautiful Bras d’Or, with open water stretching nearly to the
+fortifying to be found near the spot. Behind it lay the fertile c�tes of
+the beautiful Bras d'Or, with open water stretching nearly to the
 Straits of Canso. On the other hand, besides being surrounded by a
 sterile country, materials of every kind, except timber, must be
 transported to English Harbor at a great increase of labor and cost.
@@ -526,8 +558,8 @@ sooner clear of ice in spring.
 Name changed to Louisburg.
 
 The first thing done at Cape Breton was to change the old, time-honored
-name of the island—the very first, it is believed, which signalled the
-presence of Europeans in these waters—to the unmeaning one of Ile
+name of the island--the very first, it is believed, which signalled the
+presence of Europeans in these waters--to the unmeaning one of Ile
 Royale. English Harbor also took the name of Louisburg, in honor of the
 reigning monarch. Royalty having thus received its dues, the work of
 construction now began in earnest.
@@ -536,7 +568,7 @@ construction now began in earnest.
 
 
                                    IV
-               RÉSUMÉ OF EVENTS TO THE DECLARATION OF WAR
+               R�SUM� OF EVENTS TO THE DECLARATION OF WAR
 
 
 We will now rapidly sketch the course of events which led to war on both
@@ -584,15 +616,15 @@ might tend to the holding of these Acadians firmly to their ancient
 allegiance; to keeping alive their old antipathies; to arousing their
 fears for their religion, or to strongly impressing them with the belief
 that their legitimate sovereign would soon drive these English invaders
-from the land, never to return. For the moment the king’s lieutenants
+from the land, never to return. For the moment the king's lieutenants
 were obliged to content themselves with planting this thorn in the side
 of the English.
 
 Why called Neutrals.
 
-Acting upon the advice of the crafty Saint Ovide, De Costebello’s
+Acting upon the advice of the crafty Saint Ovide, De Costebello's
 successor, the Acadians refused to take the oath of allegiance proffered
-them by the British governor of Nova Scotia—though they had refused to
+them by the British governor of Nova Scotia--though they had refused to
 emigrate they said they would not become British subjects. When
 threatened they sullenly hinted at an uprising of the Micmacs, who were
 as firmly attached to the French interest as the Acadians themselves.
@@ -618,7 +650,7 @@ after all, that the wretched Acadians owed their exile from the land of
 their fathers. What followed was merely the logical result.
 
 But in consequence of their first refusal to remove to Louisburg only a
-handful of the Micmacs responded to Costebello’s call, by pitching their
+handful of the Micmacs responded to Costebello's call, by pitching their
 wigwams on the skirt of the embryo city.
 
 Laborers from the Galleys.
@@ -628,21 +660,21 @@ Governor-General of Canada, the Marquis de Vaudreuil, hit upon the novel
 idea of transporting every year from France those prisoners who were
 sentenced to the galleys for smuggling. They were to come out to Canada
 subject to the severe penalty of never again being permitted to return
-to their native land, “for which,” said the cunning marquis, “I
-undertake to answer.”
+to their native land, "for which," said the cunning marquis, "I
+undertake to answer."
 
 Lord Bacon, in one of his essays, makes the following comments upon this
-iniquitous method of raising up colonies: “It is a shameful and
-unblessed thing,” he says, “to take the scum of people, and wicked
+iniquitous method of raising up colonies: "It is a shameful and
+unblessed thing," he says, "to take the scum of people, and wicked
 condemned men to be the people with whom you plant; and not only so, but
 it spoileth the plantations; for they will ever live like rogues, and
 not fall to work, but be lazy, and do mischief and spend victuals: and
 be quickly weary, and then certify over to their country to the
-discredit of the plantation.”
+discredit of the plantation."
 
 Meanwhile, the sceptre that had borne such potent sway in Europe dropped
 from the lifeless hand of Louis the Great, to be taken up by the
-“crowned automaton,” Louis XV.
+"crowned automaton," Louis XV.
 
 Strength of Louisburg.
 
@@ -687,16 +719,16 @@ War of the Austrian Succession.
 The crowned gamblers of Europe had begun their costly game of the
 Austrian succession. Upon marching to invade Silesia, Frederick II., the
 neediest and most reckless gamester of them all, had said to the French
-ambassador, “I am going, I believe, to play your little game: and if I
-should throw doublets we will share the stakes.” Fortune favored this
+ambassador, "I am going, I believe, to play your little game: and if I
+should throw doublets we will share the stakes." Fortune favored this
 great king of a little kingdom. He won his first throw, seeing which,
 for she was at first only a looker-on, France immediately sent two
-armies into Bavaria to the Elector’s aid. This move was not unexpected
+armies into Bavaria to the Elector's aid. This move was not unexpected
 in London. Ever since England had forced hostilities with Spain, in
 1740, it was a foregone conclusion that the two branches of the House of
 Bourbon would make common cause, whenever a favorable opportunity should
 present itself. England now retaliated by voting a subsidy to Maria
-Theresa, and by taking into pay some sixteen thousand of King George’s
+Theresa, and by taking into pay some sixteen thousand of King George's
 petted Hanoverians, who were destined to fight the French auxiliary
 contingent. England and France were thus casting stones at each other
 over the wall, or, as Horace Walpole cleverly put it, England had the
@@ -725,13 +757,13 @@ struggle for life in the New. The people of New England, being naturally
 more keenly alive to the dangers menacing their trade, than influenced
 by a romantic sympathy with the absurd quarrels about the Austrian
 succession, anxiously watched for the first signal of the coming
-conflict. They knew the enemy’s strength, and they were as fully aware
+conflict. They knew the enemy's strength, and they were as fully aware
 of their own weaknesses. Still there was no flinching. The home
 government, being fully occupied with the affairs of the Continent, and
 with the political cabals of London, limited its efforts to arming a few
 forts in the colonies, and to keeping a few cruisers in the West Indian
 waters; but neither soldiers, arsenals, nor magazines were provided for
-the defence of these provinces, upon whom the enemy’s first and hardest
+the defence of these provinces, upon whom the enemy's first and hardest
 blows might naturally be expected to fall, nor were such other measures
 taken to meet such an extraordinary emergency as its gravity would seem
 in reason to demand.
@@ -764,16 +796,16 @@ understood, he sent an officer, who had been taken at Canso, with the
 despatch.
 
 At this time the incompetent Duke of Newcastle held the post of prime
-minister. When he had read the despatch he exclaimed, “Oh, yes—yes—to be
-sure. Annapolis must be defended.—troops must be sent to Annapolis. Pray
-where is Annapolis? Cape Breton an island! wonderful! Show it me on the
-map. So it is, sure enough. My dear sir” (to the bearer of the
-despatch), “you always bring us good news. I must go tell the King that
-Cape Breton is an island.”
+minister. When he had read the despatch he exclaimed, "Oh, yes--yes--to
+be sure. Annapolis must be defended.--troops must be sent to Annapolis.
+Pray where is Annapolis? Cape Breton an island! wonderful! Show it me on
+the map. So it is, sure enough. My dear sir" (to the bearer of the
+despatch), "you always bring us good news. I must go tell the King that
+Cape Breton is an island."
 
 January, 1744.
 
-It will be seen, later, that Shirley’s timely application to the
+It will be seen, later, that Shirley's timely application to the
 ministry, on behalf of Nova Scotia, involved the fate of Louisburg
 itself. Orders were promptly sent out to Commodore Warren, who was in
 command of a cruising squadron in the West Indies, to proceed as early
@@ -784,11 +816,11 @@ require.
 Shirley himself had also written to Warren, requesting him to do this
 very thing, at the same time the ministry were notified, though it was
 yet too early to know the result of either application. All eyes were
-now opened to Louisburg’s dangerous power. But, come what might, Shirley
+now opened to Louisburg's dangerous power. But, come what might, Shirley
 was evidently a man who would leave nothing undone.
 
 [1]Louisburg had cost the enormous sum of 30,000,000 livres or
-    £1,200,000 sterling.
+    �1,200,000 sterling.
 
 [2]Pepperell was besieging Louisburg at the same time the French were
     Tournay.
@@ -803,10 +835,10 @@ was evidently a man who would leave nothing undone.
 
 
                                    V
-                       “LOUISBURG MUST BE TAKEN”
+                       "LOUISBURG MUST BE TAKEN"
 
 
-However Shirley’s efforts to avert a present danger might succeed,
+However Shirley's efforts to avert a present danger might succeed,
 nobody saw more clearly than he did that his measures only went half way
 toward their mark. With Louisburg intact, the enemy might sweep the
 coasts of New England with their expeditions, and her commerce from the
@@ -831,7 +863,7 @@ the country, gathering to itself fresh rumors like a rolling snowball.
 In all these coteries, whether of the councillors over their wine, of
 the merchants around their punch-bowls, of the smutty smith at his
 forge, or the common dock-laborer, the same conclusion was reached, and
-constantly reiterated—Louisburg must be taken!—Yes; Louisburg must be
+constantly reiterated--Louisburg must be taken!--Yes; Louisburg must be
 taken! Upon this decision the people stood as one man.
 
 It did not, however, enter into the minds of even the most sanguine
@@ -875,7 +907,7 @@ William Vaughan.
 
 Whether William Vaughan,[6] a New Hampshire merchant resident in Maine,
 first broached the project of taking Louisburg to Shirley, cannot now
-determined, but, let the honor belong primarily where it may, Vaughan’s
+determined, but, let the honor belong primarily where it may, Vaughan's
 scheme, as outlined by him, was too absurd for serious consideration,
 however strongly he may have believed in it himself. He seems to have
 belonged to the class of enthusiasts at whose breath obstacles vanish
@@ -887,12 +919,12 @@ became so thoroughly imbued with the notion that he was not only the
 originator of the expedition, but the chief actor in it, that the value
 of those services is somewhat obscured.
 
-Governor Shirley’s project now was to take Louisburg, with such means as
+Governor Shirley's project now was to take Louisburg, with such means as
 he himself could get together. He, too, was more or less carried away by
 the spirit which animated him, as men must be to make others believe in
-them, but he never lost his head. To a cool judgment, some of Shirley’s
+them, but he never lost his head. To a cool judgment, some of Shirley's
 plans for assaulting Louisburg seem almost, if not quite, as irrational
-as Vaughan’s, yet Shirley was not the man to commit any overt act of
+as Vaughan's, yet Shirley was not the man to commit any overt act of
 folly, or shut his ears to prudent counsels. Being so well acquainted
 with the temper and spirit of the New England people, he knew that,
 before they would fight, they must be convinced. To this end, he
@@ -919,12 +951,12 @@ depended upon. Shirley, therefore, reckoned on a half-hearted resistance
 or none at all. In a word, it was his plan to surprise and take the
 place before it could be re-enforced.
 
-Shirley’s Plan.
+Shirley's Plan.
 
 After obtaining a pledge of secrecy from the members, Shirley proceeded
 to lay his project before the provincial legislature of Massachusetts,
-which was then in session. The governor’s statement, which was certainly
-cool and dispassionate, ran somewhat to this effect: “Gentlemen of the
+which was then in session. The governor's statement, which was certainly
+cool and dispassionate, ran somewhat to this effect: "Gentlemen of the
 General Court, either we must take Louisburg or see our trade
 annihilated. If you are of my mind we will take it. I have reason to
 know that the garrison is insubordinate. There is good ground for
@@ -933,27 +965,27 @@ are out of repair and the stores running low. I need not dwell further
 on what is so well known to you all. Now, with four thousand such
 soldiers as this and the neighboring provinces can furnish, aided by a
 naval force similarly equipped, the place must surely fall into our
-hands. I have, moreover, strong hopes of aid from His Majesty’s ships,
+hands. I have, moreover, strong hopes of aid from His Majesty's ships,
 now in our waters. But the great thing is to throw our forces upon
 Louisburg before the enemy can hear of our design. Secrecy and celerity
 are therefore of the last importance. Consider well, gentlemen, that
 such an opportunity is not likely to occur again. What say you? is
-Louisburg to be ours or not?”
+Louisburg to be ours or not?"
 
-Shirley’s Plan rejected.
+Shirley's Plan rejected.
 
 The conservative provincial assembly deliberated upon the proposal with
 closed doors, and with great unanimity rejected it. The sum of its
-decision was this: “If we risk nothing, we lose nothing. Should the
+decision was this: "If we risk nothing, we lose nothing. Should the
 enemy strike us, we can strike back again. We can ruin his commerce as
 well as he can destroy ours. Our policy is to stand on the defensive.
 Very possibly the men might be raised, but where are the arsenals to
 equip them; where is the money to come from to pay them; where are the
 engineers, the artillerists, the siege artillery, naval stores, and all
-the warlike material necessary to such a siege? Why, we haven’t a single
-soldier; we haven’t a penny. Surely your excellency must be jesting with
+the warlike material necessary to such a siege? Why, we haven't a single
+soldier; we haven't a penny. Surely your excellency must be jesting with
 us. It is a magnificent project, but visionary, your excellency, quite
-visionary.”
+visionary."
 
 To make use of parliamentary terms, the governor had leave to withdraw,
 but those who dreamed that he would abandon his darling scheme at the
@@ -977,11 +1009,11 @@ under a policy of inaction. Public sentiment seldom fails of having a
 wholesome effect upon legislatures, be they ever so settled in their own
 opinions. It was so in this case. Presently a petition, signed by many
 of the most influential merchants in the province, was laid on the
-speaker’s desk, so again bringing the subject up for legislative action.
+speaker's desk, so again bringing the subject up for legislative action.
 
 The Project adopted.
 
-This time the governor carried his point after a whole day’s animated
+This time the governor carried his point after a whole day's animated
 debate. The measure, however, narrowly missed a second, and, perhaps, a
 final defeat, it having a majority of one vote only; and this result was
 owing to an accident which, as it was a good deal talked about at the
@@ -1006,7 +1038,7 @@ organizing in full vigor. The work of raising troops, of chartering
 transports, of collecting arms, munitions, and stores of every kind,
 went on with an extraordinary impulse. Common smiths were turned into
 armorers; wheelwrights into artificers; women spent their evenings
-making bandages and scraping lint. Shirley’s board of war, created for
+making bandages and scraping lint. Shirley's board of war, created for
 the exigency, took supplies wherever found, paying for them with the
 paper money the Legislature had just authorized for the purpose. The
 patience with which these extraordinary war measures were submitted to
@@ -1014,7 +1046,7 @@ best shows the temper of the people. The neighboring governments were
 entreated to join in the expedition and share in the glory. Rhode
 Island, Connecticut, and New Jersey each promised contingents. The other
 provinces declined having anything to do with it, though New York made a
-most seasonable loan of ten heavy cannon, upon Shirley’s urgent
+most seasonable loan of ten heavy cannon, upon Shirley's urgent
 entreaty, without which the siege must have lagged painfully. The
 governor had, indeed, suggested, when the deficiency of artillery was
 spoken of, that the cannon of the Royal Battery of Louisburg would help
@@ -1033,7 +1065,7 @@ hoped for, but could not in the least abate his efforts.
 
 [4]Suggestions looking to a conquest of Cape Breton were made by
     Lieutenant-Governor Clarke of New York, some time in the year 1743
-    (“Documentary History of New York,” I., p. 469). He suggests taking
+    ("Documentary History of New York," I., p. 469). He suggests taking
     Cape Breton as a first step toward the reduction of all Canada.
     Then, Judge Auchmuty of the Vice-Admiralty Court of Massachusetts
     printed in April, 1744, an ably written pamphlet discussing the best
@@ -1053,12 +1085,12 @@ hoped for, but could not in the least abate his efforts.
     directly to England, in order to prefer his claim for compensation
     as the originator of the scheme. He died of smallpox at Bagshot,
     November, 1747. He insisted that fifteen hundred men, assisted by
-    some vessels, could take Louisburg by scaling the walls. “A man of
-    rash, impulsive nature.”—_Belknap._ “A whimsical, wild
-    projector.”—_Douglass._
+    some vessels, could take Louisburg by scaling the walls. "A man of
+    rash, impulsive nature."--_Belknap._ "A whimsical, wild
+    projector."--_Douglass._
 
 [7]News that an armament was preparing at Boston was carried to Quebec,
-    by the Indians, without, however, awakening the governor’s
+    by the Indians, without, however, awakening the governor's
     suspicions of its true object.
 
 
@@ -1086,14 +1118,14 @@ whose general capacity could not be called in question. Hence, as in
 every real emergency, the people cast about for their very best man from
 a political and personal standpoint, who, though he might have
 
-  “Never set a squadron in the field,”
+  "Never set a squadron in the field,"
 
 could be thoroughly depended upon to act with an eye single to the good
 of the cause he had espoused.
 
 William Pepperell to command.
 
-In this exigency Shirley’s clear eye fell on William Pepperell, of
+In this exigency Shirley's clear eye fell on William Pepperell, of
 Kittery, a gentleman of sterling though not shining qualities, whose
 wealth, social rank, and high personal worth promised to give character
 and weight to the post Shirley now destined him for. He was now
@@ -1104,11 +1136,11 @@ hand, it was conceded that hardly another man in the province possessed
 the public confidence to a greater degree than he did. Still, he was no
 soldier, and the simple conferring of the title of general could not
 make him one, while his practical education must begin in the presence
-of the enemy—a school where, if capable men learn quickly, they do so,
+of the enemy--a school where, if capable men learn quickly, they do so,
 as a rule, only after experiencing repeated and severe punishments. That
 raw soldiers need the best generals, is a maxim of common-sense, but
 Shirley, in whom we now and then discover a certain disdain for such
-judgments, seems to have had no misgivings whatever as to Pepperell’s
+judgments, seems to have had no misgivings whatever as to Pepperell's
 entire sufficiency so long as he, Shirley, gave the orders, and kept a
 firm hand over his lieutenant; nor can it be denied that if the
 expedition was to take place at all when it did, the choice was the very
@@ -1122,9 +1154,9 @@ success, did not wish for a rival.
 
 No one seems to have felt his unfitness more than Pepperell himself, and
 it is equally to his honor that he finally yielded to considerations
-directly appealing to his patriotism and sense of duty. “You,” said
-Shirley to him, “are the only man who can safely carry our great
-enterprise through; if it fail the blame must lie at your door.” Much
+directly appealing to his patriotism and sense of duty. "You," said
+Shirley to him, "are the only man who can safely carry our great
+enterprise through; if it fail the blame must lie at your door." Much
 troubled in mind, Pepperell asked the Rev. George Whitefield, who
 happened to be his guest, what he thought of it. The celebrated preacher
 kindly, but decidedly, advised Pepperell against taking on himself so
@@ -1134,9 +1166,9 @@ should succeed.
 
 Morale of the Army.
 
-Shirley’s pertinacity, however, prevailed in the end. Pepperell’s own
+Shirley's pertinacity, however, prevailed in the end. Pepperell's own
 personal stake in the successful issue of the expedition was known to be
-as great as any man’s in the province, hence, his putting himself at the
+as great as any man's in the province, hence, his putting himself at the
 head of it did much to induce others of like good standing and estate to
 join him heart and hand, and their example, again, drew into the ranks a
 greater proportion of the well-to-do farmers and mechanics than was
@@ -1154,7 +1186,7 @@ pounds toward equipping the army for its work.[8]
 
 A Crusade preached.
 
-Pepperell’s appointment soon justified Shirley’s forecast. It gave
+Pepperell's appointment soon justified Shirley's forecast. It gave
 general satisfaction among all ranks and orders of men. On the day that
 he accepted the command Pepperell advanced five thousand pounds to the
 provincial treasury. He also paid out of his own pocket the bounty money
@@ -1165,10 +1197,10 @@ momentum. Volunteers flocked to the different rendezvous. In fact, more
 offered themselves than could be accepted. Again the loud burr of the
 drum,
 
-  “The drums that beat at Louisburg and thundered in Quebec,”
+  "The drums that beat at Louisburg and thundered in Quebec,"
 
-was heard throughout New England. The one question of the day was “Are
-you going?” In fact, little else was talked of, for, now that the
+was heard throughout New England. The one question of the day was "Are
+you going?" In fact, little else was talked of, for, now that the
 mustering of armed men gave form and consistency to what was so lately a
 crude project only, the fortunes of the province were felt to be
 embarked in its success. True to its traditions, the clergy preached the
@@ -1178,17 +1210,17 @@ inflamed to the point of fanaticism. One clergyman armed himself with a
 large hatchet, with which he said he purposed chopping up into kindling
 wood all the Popish images he should find adorning the altars of
 Louisburg. Still another drew up a plan of campaign which he submitted
-to the general. “Carthage must be destroyed!” became the watchword,
+to the general. "Carthage must be destroyed!" became the watchword,
 while to show the hand of God powerfully working for the right, the
 celebrated George Whitefield wrote the Latin motto, embroidered on the
-expeditionary standard,—
+expeditionary standard,--
 
-  “Never despair, Christ is with us.”
+  "Never despair, Christ is with us."
 
 Thus the church militant was not only represented in the ranks and on
 the banner, but it was equally forward in proffering counsel. For
 example: one minister wrote to acquaint Shirley how the provincials
-should be saved from being blown up, in their camps, by the enemy’s
+should be saved from being blown up, in their camps, by the enemy's
 mines. He wanted a patrol to go carefully over the camping-ground first.
 While one struck the ground with a heavy mallet, another should lay his
 ear to it, and if it sounded suspiciously hollow, he should instantly
@@ -1196,7 +1228,7 @@ drive down a stake in order that the spot might be avoided.
 
 Such anecdotes show us how earnestly all classes of men entered upon the
 work in hand. How to take Louisburg seemed the one engrossing subject of
-every man’s thoughts.
+every man's thoughts.
 
 Having glanced at the qualifications of the general, we may now consider
 the composition of the army. We have already drawn attention to the
@@ -1206,11 +1238,11 @@ the old traditions of the British army were strictly followed.
 The Army by Regiments.
 
 The expeditionary corps was formed in ten battalions. They were
-Pepperell’s,[9] Wolcott’s[10] (of Connecticut), Waldo’s,[11]
-Dwight’s[12] (nominally an artillery battalion), Moulton’s,[13]
-Willard’s, Hale’s,[14] Richmond’s,[15] Gorham’s, and Moore’s[16] (of New
+Pepperell's,[9] Wolcott's[10] (of Connecticut), Waldo's,[11]
+Dwight's[12] (nominally an artillery battalion), Moulton's,[13]
+Willard's, Hale's,[14] Richmond's,[15] Gorham's, and Moore's[16] (of New
 Hampshire). One hundred and fifty men of this regiment were in the pay
-of Massachusetts. Pepperell’s, Waldo’s, and Moulton’s were mostly raised
+of Massachusetts. Pepperell's, Waldo's, and Moulton's were mostly raised
 in the District of Maine. Pepperell said that one-third of the whole
 force came from Maine. Dwight was assigned to the command of the
 artillery, with the rank of brigadier; Gorham to the special service of
@@ -1242,12 +1274,12 @@ and afterwards to act in conjunction with it on the spot.
 
 Hutchinson, Belknap.
 
-The writers of the time tell us that “the winter proved so favorable
+The writers of the time tell us that "the winter proved so favorable
 that all sorts of outdoor business was carried on as well, and with as
-great despatch, as at any other season of the year.” The month of
+great despatch, as at any other season of the year." The month of
 February, in particular, proved very mild. The rivers and harbors were
 open, and the fruitfulness of the preceding season had made provisions
-plenty. Douglass thinks that “some guardian angel” must have preserved
+plenty. Douglass thinks that "some guardian angel" must have preserved
 the troops from taking the small-pox, which broke out in Boston about
 the time of their embarkation. All these fortunate accidents were hailed
 as omens of success.
@@ -1269,8 +1301,8 @@ in Boston harbor, or borrowing old cannon wherever they could be found,
 Shirley had managed to get together a sort of makeshift for a
 siege-train. All being ready at last, after a day of solemn fasting and
 prayer throughout New England, the flotilla set sail for the rendezvous
-at Canso in the last week of March. “Pray for us while we fight for
-you,” was the last message of the departing provincial soldiers to their
+at Canso in the last week of March. "Pray for us while we fight for
+you," was the last message of the departing provincial soldiers to their
 friends on shore.
 
 Equal good-fortune attended the transportation of the army by sea to a
@@ -1287,7 +1319,7 @@ hope lay in his own resources.
 But by this time the enthusiasm which had carried men off their feet had
 begun to cool. The excitements, under the influence of which this or
 that obstacle had been impatiently brushed aside, had given way to the
-sober second thought. One by one they rose grimly before Pepperell’s
+sober second thought. One by one they rose grimly before Pepperell's
 troubled vision like the ghosts in Macbeth. Land the troops and storm
 the works had been the popular way of disposing of a fortress which the
 French engineers had offered to defend with a garrison of women.
@@ -1296,12 +1328,12 @@ French engineers had offered to defend with a garrison of women.
     a dangerous nature was to be done. He was a retired British officer.
     He was one of the three who escaped death, while on a scout, May 10.
     With five men he towed a fireship against the West Gate, under the
-    enemy’s fire, on the night of May 24. It burnt three vessels, part
-    of the King’s Gate, and part of a stone house in the city. Being
+    enemy's fire, on the night of May 24. It burnt three vessels, part
+    of the King's Gate, and part of a stone house in the city. Being
     done in the dead of night, it caused great consternation among the
     besieged.
 
-[9]Pepperell’s own regiment was actually commanded by his
+[9]Pepperell's own regiment was actually commanded by his
     lieutenant-colonel, John Bradstreet, who was afterwards appointed
     lieutenant-governor of Newfoundland, but on the breaking out of the
     next war with France, he served with distinction on the New-York
@@ -1313,14 +1345,14 @@ French engineers had offered to defend with a garrison of women.
     Connecticut contingent under Pepperell. Wolcott was one of the
     foremost men of his colony, being repeatedly honored with the
     highest posts, those of chief judge and governor included. David
-    Wooster was a captain in Wolcott’s regiment.
+    Wooster was a captain in Wolcott's regiment.
 
 [11]Samuel Waldo was a Boston merchant, who had acquired a chief
     interest in the Muscongus, later known from him as the Waldo Patent,
     in Maine, to the improvement of which he gave the best years of his
     life. Like Pepperell, he was a wealthy land-owner. They were close
-    friends, Waldo’s daughter being betrothed to Pepperell’s son later.
-    His patent finally passed to General Knox, who married Waldo’s
+    friends, Waldo's daughter being betrothed to Pepperell's son later.
+    His patent finally passed to General Knox, who married Waldo's
     grand-daughter.
 
 [12]Joseph Dwight was born at Dedham, Mass., in 1703. He served in the
@@ -1342,17 +1374,17 @@ French engineers had offered to defend with a garrison of women.
     the Bristol County regiment. He was high sheriff of the county for
     many years after his return from Louisburg. Died in 1783, in his
     eighty-fourth year. Lieutenant-Colonel Ebenezer Pitts of Dighton,
-    and Major Joseph Hodges of Norton, of Richmond’s regiment, were both
+    and Major Joseph Hodges of Norton, of Richmond's regiment, were both
     killed during the campaign.
 
-[16]Samuel Moore’s New Hampshire regiment was drafted into the
+[16]Samuel Moore's New Hampshire regiment was drafted into the
     _Vigilant_. His lieutenant-colonel, Meserve, afterward served under
     Abercromby, and again in the second siege of Louisburg under
     Amherst, dying there of small-pox. Matthew Thornton, signer of the
-    Declaration, was surgeon of Moore’s regiment.
+    Declaration, was surgeon of Moore's regiment.
 
 [17]Edward Tyng, merchant of Boston, son of that Colonel Edward who was
-    carried a prisoner to France, with John Nelson, by Frontenac’s
+    carried a prisoner to France, with John Nelson, by Frontenac's
     order, and died there in a dungeon.
 
 
@@ -1371,7 +1403,7 @@ advance of the expedition, with orders to cruise off the island, and to
 intercept all vessels they should fall in with, so that news of the
 armament might not get into Louisburg, by any chance, before its coming.
 
-Shirley’s Project.
+Shirley's Project.
 
 This was all the more necessary because Shirley had indulged hopes, from
 the first, of taking the place by surprise, and so obstinately was he
@@ -1388,17 +1420,17 @@ considerably given to counting his chickens before they were hatched.
 A Saving Clause.
 
 Being a lawyer rather than a soldier, Shirley had written out a brief
-instead of an order—clear, concise, direct. But, lengthy as it was, the
+instead of an order--clear, concise, direct. But, lengthy as it was, the
 plan had one redeeming feature, which turns away criticism from the
 absurdities with which it was running over. This was the postscript
-appended to it: “Sir, upon the whole, notwithstanding the instructions
+appended to it: "Sir, upon the whole, notwithstanding the instructions
 you have received from me, I must leave it to you to act upon unforeseen
-emergencies according to your best discretion.” The reading of it must
-have lifted a load from Pepperell’s mind! It really looked as if Shirley
+emergencies according to your best discretion." The reading of it must
+have lifted a load from Pepperell's mind! It really looked as if Shirley
 had meant to be the real generalissimo himself, and to capture Louisburg
 by proxy.
 
-Pepperell’s Council.
+Pepperell's Council.
 
 Pepperell was still hampered, however, with a council of war, consisting
 of all the general and field officers of his army, whom he was required
@@ -1407,15 +1439,15 @@ multitude of counsels there is wisdom, then Pepperell was to be well
 advised, for his council aggregated between twenty and thirty members.
 
 Pepperell seems to have conceived that he ought to submit himself wholly
-to Shirley’s guidance, since he himself was now to serve his first
+to Shirley's guidance, since he himself was now to serve his first
 apprenticeship in war, for it was now loyally attempted to carry out
-Shirley’s instructions to the letter. In all these preliminary
-arrangements the difference between Shirley’s brilliancy and dash and
-Pepperell’s methodical cast of mind is very marked indeed. It would
+Shirley's instructions to the letter. In all these preliminary
+arrangements the difference between Shirley's brilliancy and dash and
+Pepperell's methodical cast of mind is very marked indeed. It would
 sometimes seem as if the two men ought to have changed places.
 
 Why the army was at Canso.
-Importance of St. Peter’s.
+Importance of St. Peter's.
 
 Shirley had appointed the rendezvous to be at Canso, which place had
 been abandoned soon after it was taken from us; first, because it was
@@ -1425,17 +1457,17 @@ would, at least, have been recovered. It was, as we have said, within
 easy striking distance of Louisburg. Out in front of Canso, between the
 Nova Scotia and Cape Breton shores, lay Isle Madame or Arichat, on which
 a few French fishermen were living. Across the water from Arichat, at
-the entrance to the Bras d’Or, lay the Village of St. Peter’s, the
+the entrance to the Bras d'Or, lay the Village of St. Peter's, the
 second in point of importance in Cape Breton, Louisburg being the first.
 At Arichat everything that was being done at Canso could be easily seen
-and communicated to St. Peter’s. At St. Peter’s word could be sent to
-Louisburg by way of the Bras d’Or Lakes. It therefore stood Pepperell in
+and communicated to St. Peter's. At St. Peter's word could be sent to
+Louisburg by way of the Bras d'Or Lakes. It therefore stood Pepperell in
 hand to clear his vicinity of these spies and informers without delay,
 unless he wished to find the enemy forewarned and forearmed.
 
 The Ice Blockade at Louisburg.
 
-Shirley had directed Pepperell to destroy St. Peter’s. Pepperell,
+Shirley had directed Pepperell to destroy St. Peter's. Pepperell,
 therefore, sent a night expedition there, which, however, returned
 without accomplishing its purpose. But his greatest fear, lest supplies
 or re-enforcements should get into Louisburg by sea, was set at rest on
@@ -1466,10 +1498,10 @@ privateers. Perhaps nothing about the whole history of this expedition
 is more strange than that this officer should have remained wholly
 ignorant of its being at Canso for nearly three weeks.
 
-April 23, Warren’s Fleet arrives.
+April 23, Warren's Fleet arrives.
 Effect on the Army.
 
-The army had been lying nearly two weeks inactive, when, to Pepperell’s
+The army had been lying nearly two weeks inactive, when, to Pepperell's
 great surprise as well as joy, Commodore Warren appeared off Canso with
 four ships of war, and, after briefly communicating with the general,
 bore away for Louisburg. At last he had received his orders to act in
@@ -1485,10 +1517,10 @@ April 24, Connecticut Forces arrive.
 On the following day, the Connecticut forces joined Pepperell. The
 shores of Cape Breton were now eagerly scanned for the first appearance
 of open water, but even as late as the 28th Pepperell wrote to Shirley,
-saying, “We impatiently wait for a fair wind to drive the ice out of the
+saying, "We impatiently wait for a fair wind to drive the ice out of the
 bay, and if we do not suffer for want of provisions, make no doubt but
-we shall, by God’s favor, be able soon to drive out what else we please
-from Cape Breton.” The consumption of stores, occasioned by the
+we shall, by God's favor, be able soon to drive out what else we please
+from Cape Breton." The consumption of stores, occasioned by the
 unlooked-for detention at Canso, had, in fact, become a matter of
 serious concern with Pepperell, whose nearest source of supply was
 Boston.
@@ -1513,12 +1545,12 @@ descent.
 Night Assault given up.
 
 Bound to the letter of his orders, Pepperell seems to have first
-purposed making an attempt to put Shirley’s rash project in execution.
+purposed making an attempt to put Shirley's rash project in execution.
 To do this, he must have so timed his movements as to reach his
 anchorage after dark, have landed his troops without being able to see
 what obstacles lay before them, have marched them to stations situated
 at a distance from the place of disembarkation, over ground unknown, and
-not previously reconnoitred, to throw them against the enemy’s works
+not previously reconnoitred, to throw them against the enemy's works
 before they should be discovered. And this most critical of all military
 operations, a night assault, was to be attempted by wholly undisciplined
 men.
@@ -1537,7 +1569,7 @@ in all out parties. It is said that there had been a grand ball the
 night before, and that the company had scarce been asleep when called up
 by this alarm. The booming of artillery, sounding like the drowsy roar
 of an awakening lion, was defiantly echoed back from the bosom of the
-deep, and borne on the cool breeze to the startled foemen’s ears the
+deep, and borne on the cool breeze to the startled foemen's ears the
 distant roll of drum, and bugle blast, peopled the lately deserted sea
 with voices of the coming strife.
 
@@ -1579,7 +1611,7 @@ the fortress.
 
 Royal Battery deserted.
 
-To this end four hundred men were sent out to destroy the enemy’s
+To this end four hundred men were sent out to destroy the enemy's
 magazines situated at the head of the harbor, Vaughan again marching
 with them. This detachment having set fire to some warehouses containing
 naval stores, the smoke from which drifted down upon the Royal Battery,
@@ -1589,12 +1621,12 @@ though not till after receiving permission to do so.
 
 In the morning, as Vaughan was returning to camp with only thirteen men,
 the deserted appearance of the battery caused him to carefully examine
-it, when, seeing no signs of life about the place,—no flag flying or
-smoke rising or sentinels moving about,—he sent forward an Indian of his
-party, who, finding all silent, crept through an embrasure, and undid
-the gate to them. Vaughan then despatched word to the camp that he was
-in possession of the place, and was waiting for a re-enforcement and a
-flag; but meantime, before either could reach him, one of his men
+it, when, seeing no signs of life about the place,--no flag flying or
+smoke rising or sentinels moving about,--he sent forward an Indian of
+his party, who, finding all silent, crept through an embrasure, and
+undid the gate to them. Vaughan then despatched word to the camp that he
+was in possession of the place, and was waiting for a re-enforcement and
+a flag; but meantime, before either could reach him, one of his men
 climbed up the staff, and nailed his red coat to it for a flag.
 
 Vaughan attacked.
@@ -1605,7 +1637,7 @@ left unfinished. At least this is his own statement. It was supposed
 that the battery was still unoccupied or occupied weakly, otherwise the
 French would hardly have risked much for its possession. When this
 detachment came round in their boats to the landing-place, near the
-battery, Vaughan’s little band attacked them with great spirit, keeping
+battery, Vaughan's little band attacked them with great spirit, keeping
 them at bay until other troops had time to join him, when the
 discomfited Frenchmen were driven back whence they came.
 
@@ -1633,9 +1665,9 @@ also afforded an excellent place of arms for our soldiers, whose
 confidence was greatly strengthened. In a word, the siege was making
 progress.
 
-We cannot help referring here to the fact that notwithstanding Shirley’s
+We cannot help referring here to the fact that notwithstanding Shirley's
 idea had met with so much ridicule it had, nevertheless, come true in
-one part at least, since if the proposal to turn the enemy’s own cannon
+one part at least, since if the proposal to turn the enemy's own cannon
 against them had seemed somewhat whimsical when it was broached, it
 certainly proved prophetic in this case, for within twenty-four hours
 after its taking the guns of the Royal Battery were thundering against
@@ -1643,7 +1675,7 @@ the city.
 
 Firing begun.
 
-Pepperell had at once ordered Waldo’s regiment into the captured
+Pepperell had at once ordered Waldo's regiment into the captured
 battery. The enemy had not even stopped to knock off the trunnions of
 the cannon, so that the smiths, under the direction of Major
 Pomeroy,[18] who was himself a gun-smith, had only to drill them out
@@ -1653,13 +1685,13 @@ and it drew forth a reply from the enemy, with both shot and shell.
 
 The siege may now be said to have fairly begun, and begun prosperously.
 Both sides had stripped for fighting, and it remained to be seen whether
-Pepperell’s raw levies would continue steadfast under the many trials of
+Pepperell's raw levies would continue steadfast under the many trials of
 which these events were but a foretaste.
 
 Louisburg was now practically invested on the land side, the fleet, with
 its heavy armament, remaining useless, however, with respect to active
 co-operation in the siege itself, because its commander dared not take
-his ships into the harbor under fire of the enemy’s batteries. The army
+his ships into the harbor under fire of the enemy's batteries. The army
 and navy were acting therefore without that concert which alone would
 have allowed their united strength to be effectively tested. On its
 part, the navy was simply making a display of force which could not be
@@ -1677,7 +1709,7 @@ firmness and most heroic patience. Let us see what this task was, and in
 what manner the citizen-general set about it. That it was done with true
 military judgment is abundantly proved by the fact that, when Louisburg
 was assaulted and taken in 1758, by the combined land and naval forces
-of Amherst and Boscawen, Pepperell’s plan of attack was followed step by
+of Amherst and Boscawen, Pepperell's plan of attack was followed step by
 step, and to the letter.
 
     [Illustration: TOWN AND FORTIFICATIONS OF LOUISBOURG IN 1745.]
@@ -1689,7 +1721,7 @@ which attention has been called in a previous chapter, the Circular
 Battery, a work situated at the extreme northwest corner of the city
 walls, and forming the reverse face of the powerful Dauphin Bastion,
 from which the West Gate of the city opened, with the Water Battery, or
-Batterie de la Gréve, placed at the opposite angle of the harbor
+Batterie de la Gr�ve, placed at the opposite angle of the harbor
 shore.[19] The cross-fire from these two batteries effectually raked the
 whole harbor from shore to shore, but it was by no means so dangerous as
 that of the Island Battery, where ships must pass within point-blank
@@ -1706,7 +1738,7 @@ though they blocked the way to the fleet.[20]
 It will be seen that these circumstances imposed upon Pepperell a task
 of no little magnitude. They compelled him to attack the very strongest,
 instead of the weakest, parts of the fortress, and necessarily confined
-the siege operations within a comparatively small space of the enemy’s
+the siege operations within a comparatively small space of the enemy's
 long line.
 
 No time was lost in getting the siege train over from Gabarus Bay to the
@@ -1721,8 +1753,8 @@ relays of men harnessed themselves in turn, as they do in Arctic
 journeys, and in this way the cannon, mortars, and stores were slowly
 dragged through the spongy turf, where the mud was frequently knee-deep,
 to the trenches before Louisburg. None but the rugged yeomen of New
-England—men inured to all sorts of outdoor labor in woods and
-fields—could have successfully accomplished such a herculean task. But
+England--men inured to all sorts of outdoor labor in woods and
+fields--could have successfully accomplished such a herculean task. But
 such severe toil as this was soon put half the army in the hospitals.
 
 Nova Scotia freed of Invaders.
@@ -1733,20 +1765,20 @@ Sydney. Meantime, Duchambon, seeing himself blockaded both by sea and by
 land, had hurriedly sent off an express to recall the troops that had
 gone out some time before against Annapolis, in concert with a force
 sent from Quebec, little dreaming that he himself would soon be
-attacked.[21] The first fruits of Shirley’s sagacity ripened thus early
+attacked.[21] The first fruits of Shirley's sagacity ripened thus early
 in relieving Nova Scotia from invasion.
 
 First Sabbath in Camp.
 
 The 5th being Sunday, divine service was held in the chapel of the Royal
-Battery. Pepperell’s hardy New Englanders listened to the first
+Battery. Pepperell's hardy New Englanders listened to the first
 Protestant sermon ever preached, perhaps, on the island of Cape Breton,
-from the well-chosen text “Enter into His gates with thanksgiving, and
-into His courts with praise.” After their devotions were over, we are
-told that the troops “fired smartly at the city.”
+from the well-chosen text "Enter into His gates with thanksgiving, and
+into His courts with praise." After their devotions were over, we are
+told that the troops "fired smartly at the city."
 
 Meantime, also, Colonel Moulton, who had been left at Canso for the
-purpose, rejoined the army after destroying St. Peter’s. Two sallies
+purpose, rejoined the army after destroying St. Peter's. Two sallies
 made by the enemy against the nearest mortar-battery had been repulsed.
 Its fire, augmented by some forty-two-pounders taken from the Royal
 Battery, already much distressed the garrison, its balls coming against
@@ -1758,17 +1790,17 @@ any that the besiegers raised.
 Garrison summoned.
 
 On the 7th a flag was sent into the city with a summons to surrender.
-Firing was suspended until its return, with Duchambon’s defiant message,
-that inasmuch “as the King had confided to him the defence of the
-fortress, he had no other reply but by the mouths of his cannon.”
+Firing was suspended until its return, with Duchambon's defiant message,
+that inasmuch "as the King had confided to him the defence of the
+fortress, he had no other reply but by the mouths of his cannon."
 
 Scouting Party defeated.
 
 This check prompted a disposition to attack the city by storm at once,
 but upon reflection more moderate counsels prevailed, and the attempt
 was put off. Pepperell went on with his approaches toward the West Gate,
-under a constant fire from all the enemy’s batteries. And as every
-collection of men drew the enemy’s fire to the spot, this work could
+under a constant fire from all the enemy's batteries. And as every
+collection of men drew the enemy's fire to the spot, this work could
 only be done at night, under great disadvantages. The balls they sent
 him were picked up and returned from his own cannon with true New
 England thrift, in order to husband his own ammunition. While thus
@@ -1776,7 +1808,7 @@ engaged with the enemy in his front, he had also to keep an eye upon the
 outlying parties of French and Indians in his rear, who had been scraped
 together from scattered settlements, and were lurking about his camp
 with the view of raiding it unawares. On May 10, a scouting party of
-twenty-five men from Waldo’s regiment was sent out to find and drive off
+twenty-five men from Waldo's regiment was sent out to find and drive off
 these marauders. While they were engaged in plundering some
 dwelling-houses at one of the out-settlements, they themselves were
 unexpectedly attacked by a superior force, and all but three killed, the
@@ -1794,7 +1826,7 @@ Disagreements.
 
 In Shirley, his lawful captain-general, Pepperell had always a superior
 whose orders he felt bound to obey to the best of his ability, cost what
-it might. Fortunately, Shirley’s power of annoyance was limited by
+it might. Fortunately, Shirley's power of annoyance was limited by
 distance, though he kept up an animated fire of suggestions. In Warren,
 however, the brusque and impulsive sailor, Pepperell now found a tutor
 and a critic, whose irritation at the subordinate part he was playing
@@ -1804,8 +1836,8 @@ Warren grew more and more restive and importunate, while Pepperell
 continued patient, calm, and methodical to the last. Warren would call
 his fleet-captains together, hold a council, discuss the situation from
 his point of view, and send off to Pepperell the result of their
-deliberations, with the final exhortation attached, “For God’s sake let
-_us_ do something!”—that “something” being that Pepperell should
+deliberations, with the final exhortation attached, "For God's sake let
+_us_ do something!"--that "something" being that Pepperell should
 practically finish the siege without him, as we have already shown.
 Warren was a man standing at a door to keep out intruders, while the two
 actual adversaries were fighting it out inside. He might occasionally
@@ -1816,25 +1848,25 @@ Pepperell would then get his council together in his turn, and, smarting
 under the sense of injustice, would submit the lecture that Warren had
 read him, with its thinly veiled irony, and unconcealed hauteur, to
 which the imputation of ignorance was not lacking. The situation would
-then be again discussed in all its bearings, from the army’s standpoint,
+then be again discussed in all its bearings, from the army's standpoint,
 which might be stated as follows: The fortress cannot be stormed until
 we have made a practicable breach in the walls. We must finish our
 batteries before this can be done. Or let the commodore bring in his
-ships and assist in silencing the enemy’s fire. The army is losing
+ships and assist in silencing the enemy's fire. The army is losing
 strength every day by sickness, while the fleet is gaining by the
-arrival of fresh ships. We cannot, if we would, pull the commodore’s
+arrival of fresh ships. We cannot, if we would, pull the commodore's
 chestnuts out of the fire and our own too.
 
 [18]Major Seth Pomeroy of Northampton, Mass., was lieutenant-colonel of
-    Williams’s regiment in the battle of Lake George, 1755, succeeding
-    to the command after Williams’s death. At the beginning of the
+    Williams's regiment in the battle of Lake George, 1755, succeeding
+    to the command after Williams's death. At the beginning of the
     Revolution he fought as a volunteer at Bunker Hill.
 
 [19]Reference should be made to the plan at page 91. It will greatly
     simplify the siege operations to the reader if he will keep in mind
     the fact that the land attack was wholly confined within the points
     designated by A and B on this plan, or between the Dauphin and
-    King’s bastions. For our purpose, it is only necessary to add that
+    King's bastions. For our purpose, it is only necessary to add that
     the harbor front was defended by a strong wall of masonry, joining
     the Water Battery, G, with the Dauphin Bastion, A. In this wall were
     five gates, leading to the water-side. It was the point at which the
@@ -1870,7 +1902,7 @@ hardship. They were housed in tents, most of which proved rotten and
 unserviceable, or in booths, which they built for themselves out of
 poles and green boughs cut in the neighboring woods. The relief parties,
 told off each day for work in the trenches, were marched to their
-stations after dark, as the enemy’s fire swept the ground over which
+stations after dark, as the enemy's fire swept the ground over which
 they must pass. For a like reason, the fatigue parties could only bring
 up the daily supplies of provisions and ammunition to the trenches from
 Gabarus Bay, after darkness had set in. By great good-fortune, the
@@ -1896,15 +1928,15 @@ than to be ordered off on some scouting expedition that promised to
 bring on a brush with the enemy.
 
 This spirit is plainly manifest in the letters which have been
-preserved. In one of them Major Pomeroy tells his wife that “it looks as
-if our campaign would last long; but I am willing to stay till God’s
-time comes to deliver the city into our hands.” The reply is worthy of a
-woman of Sparta: “Suffer no anxious thoughts to rest in your mind about
+preserved. In one of them Major Pomeroy tells his wife that "it looks as
+if our campaign would last long; but I am willing to stay till God's
+time comes to deliver the city into our hands." The reply is worthy of a
+woman of Sparta: "Suffer no anxious thoughts to rest in your mind about
 me. The whole town is much engaged with concern for the expedition, how
 Providence will order the affair, for which religious meetings every
-week are maintained. I leave you in the hand of God.”
+week are maintained. I leave you in the hand of God."
 
-There is not a despatch or a letter of Pepperell’s extant, in which this
+There is not a despatch or a letter of Pepperell's extant, in which this
 dependence upon the Over-ruling Hand is not acknowledged. The barbaric
 utterance that Providence is always on the side of the strongest
 battalions would have shocked the men of Louisburg as deeply as it would
@@ -1917,7 +1949,7 @@ the Leader of Armies and the God of Battles.
 There were not wanting incidents which the soldiers treasured up as
 direct manifestations of Divine favor. Moses Coffin, of Newbury, who
 officiated in the double capacity of chaplain and drummer, and who had
-been nicknamed in consequence the “drum ecclesiastic,” carried a small
+been nicknamed in consequence the "drum ecclesiastic," carried a small
 pocket-Bible about with him wherever he went. On returning to camp,
 after an engagement with the enemy, he found that a bullet had passed
 nearly through the sacred book, thus, undoubtedly, saving his life.
@@ -1929,17 +1961,17 @@ several writers, as if it implied a grave delinquency in the head of the
 army. We are of the opinion, however, that it was the safety-valve of
 _this_ army, under the extraordinary pressure laid upon it. So while we
 may smile at the comparison made by Douglass, who says that the siege
-resembled a “Cambridge Commencement,” or at the antics described by
+resembled a "Cambridge Commencement," or at the antics described by
 Belknap,[23] we need not feel ourselves bound to accept their
-conclusions. This author says: “Those who were on the spot, have
+conclusions. This author says: "Those who were on the spot, have
 frequently in my hearing laughed at the recital of their own
 irregularities, and expressed their admiration when they reflected on
 the almost miraculous preservation of the army from destruction. They
 indeed presented a formidable front to the enemy, but the rear was a
 scene of confusion and frolic. While some were on duty at the trenches,
 others were racing, wrestling, pitching quoits, firing at marks or
-birds, or running after shot from the enemy’s guns for which they
-received a bounty.”
+birds, or running after shot from the enemy's guns for which they
+received a bounty."
 
 Our Fascine Batteries.
 
@@ -1948,7 +1980,7 @@ Louisburg. Gridley,[24] who acted in the capacity of chief engineer, had
 picked up from books all the knowledge he possessed, but he soon showed
 a natural aptitude for that branch of the service. Dwight, the chief of
 artillery, is not known ever to have pointed a shotted gun in his life.
-Instead of gradual approaches, of zigzags and épaulements, the ground
+Instead of gradual approaches, of zigzags and �paulements, the ground
 was simply staked out where the batteries were to be placed. After dark
 the working parties started for the spot, carrying bundles of fascines
 on their backs, laid them on the lines, and then began digging the
@@ -1972,7 +2004,7 @@ lull in the firing. The French gunners, who were kept well supplied with
 wine, would drink to the besiegers, and invite them over to breakfast or
 to take a glass of wine.
 
-    [Illustration: THE LIGHTHOUSE, WITH DÉBRIS OF OLD WORKS.]
+    [Illustration: THE LIGHTHOUSE, WITH D�BRIS OF OLD WORKS.]
 
 Cannon discovered.
 
@@ -1982,21 +2014,21 @@ this time of his want of good gunners, also of a sufficient supply of
 powder to make good the daily consumption, of which he had no previous
 conception, but is cheered by finding thirty cannon sunk at low-water
 mark on the opposite side of the harbor, which he designed mounting at
-the lighthouse forthwith, for attacking the Island Battery. Gorham’s
+the lighthouse forthwith, for attacking the Island Battery. Gorham's
 regiment was posted there with this object. Thus again were the enemy
 furnishing means for their own destruction. Foreseeing that this
 fortification would shut the port to ships coming to his relief,
 Duchambon sent a hundred men across the harbor to drive off the
 provincials. A sharp fight ensued, in which the enemy were defeated.
 
-Titcomb’s Battery at Work.
+Titcomb's Battery at Work.
 
 By this time another fascine battery situated by the shore, at a point
 nine hundred yards from the walls, began raking the Circular Battery of
 the enemy, in conjunction with the direct fire from our Advanced
-Battery. It was called Titcomb’s, from the officer in charge, Major
-Moses Titcomb of Hale’s regiment. These two fortifications were now
-knocking to pieces the northwest corner of the enemy’s ponderous works,
+Battery. It was called Titcomb's, from the officer in charge, Major
+Moses Titcomb of Hale's regiment. These two fortifications were now
+knocking to pieces the northwest corner of the enemy's ponderous works,
 known as the Dauphin Bastion. We were now playing on Louisburg from
 three batteries on the shore of the harbor, three in the rear of these,
 and had another in process of construction at the lighthouse, all of
@@ -2005,11 +2037,11 @@ days, without recourse to any scientific rules whatever.
 
 Capture of the Vigilant.
 
-In spite of Warren’s watchfulness one vessel had slipped through his
+In spite of Warren's watchfulness one vessel had slipped through his
 squadron into Louisburg unperceived, bringing supplies to the besieged,
-An event now took place which, to use Pepperell’s words, “produced a
+An event now took place which, to use Pepperell's words, "produced a
 burst of joy in the army, and animated the men with fresh courage to
-persevere.” The annual supply ship from France, for which our fleet had
+persevere." The annual supply ship from France, for which our fleet had
 been constantly on the lookout, had run close in with the harbor in a
 thick fog, undiscovered by our vessels, and wholly unsuspicious of
 danger herself. When the fog lifted she was seen and engaged by the
@@ -2023,12 +2055,12 @@ transports.
 Warren proposes to attack.
 
 By the 24th, two more heavy ships, which the ministry had sent out
-immediately upon receiving Shirley’s advices that the expedition had
+immediately upon receiving Shirley's advices that the expedition had
 been decided upon,[25] now joined Warren, who at length felt himself
-emboldened to ask Pepperell’s co-operation in the following plan of
+emboldened to ask Pepperell's co-operation in the following plan of
 attack. It was proposed to distribute sixteen hundred men, to be taken
 from the army, among the ships of war, all of which should then go into
-the harbor and attack the enemy’s batteries vigorously. Under cover of
+the harbor and attack the enemy's batteries vigorously. Under cover of
 this fire, the soldiers, with the marines from the ships, were to land
 and assault the city. Pepperell himself was to have no share in this
 business, except as a looker-on, but was to put his troops under the
@@ -2036,16 +2068,16 @@ command of an officer of marines who should take his orders from Warren
 only.
 
 This implied censure to the conduct of the army and its chief, followed
-up the next day by the tart question of “Pray how came the Island
-Battery not to be attacked?” seems to have goaded Pepperell into giving
-the order for a night attack upon that strong post. Indeed, Pepperell’s
-perplexities were growing every hour. On the day he received Warren’s
+up the next day by the tart question of "Pray how came the Island
+Battery not to be attacked?" seems to have goaded Pepperell into giving
+the order for a night attack upon that strong post. Indeed, Pepperell's
+perplexities were growing every hour. On the day he received Warren's
 cool proposition to take the control of the army out of his hands, he
 had been obliged to send off a flying column in pursuit of a force which
-his scouts had reported was at Mirá Bay, fifteen miles from his camp. In
+his scouts had reported was at Mir� Bay, fifteen miles from his camp. In
 fact, the forces which Duchambon had recalled from Annapolis were
 watching their chance either to make a dash into Louisburg, or throw
-themselves upon the besiegers’ trenches unawares.
+themselves upon the besiegers' trenches unawares.
 
 Island Battery stormed May 27.
 Gallantry of William Tufts, Jr.
@@ -2064,12 +2096,12 @@ unscathed. In scrambling up the rocks through a drenching surf, most of
 their muskets were wet with salt water, and rendered useless. Not yet
 dismayed, the assailants fought their numerous foes hand to hand for
 nearly an hour. Captain Brooks, their leader, was cut down in the
-_mêlée_. One William Tufts, a brave lad of only nineteen, got into the
+_m�l�e_. One William Tufts, a brave lad of only nineteen, got into the
 battery, climbed the flagstaff, tore down the French colors, and
 fastened his own red coat to the staff, under a shower of balls, many of
 which went through his clothes without harming him. Sixty men were slain
 before the rest would surrender, but these were the flower of the army,
-whose loss saddened the whole camp, when the enemy’s exulting cheers
+whose loss saddened the whole camp, when the enemy's exulting cheers
 told the story of the disaster, at break of day. About a hundred and
 eighty-nine men were either drowned, killed, or taken in this desperate
 encounter. It was an exploit worthy of the men, but there was not one
@@ -2079,13 +2111,13 @@ feeling to get the better of judgment by taking that chance.
 Pepperell could now say to Warren that his proposal would not be agreed
 to. His effective force had been reduced by sickness to twenty-one
 hundred men, six hundred of whom were at that moment absent from camp.
-As a compliance with Warren’s requisition for sixteen hundred men would
+As a compliance with Warren's requisition for sixteen hundred men would
 be equivalent to exposing everything to the uncertain chances of a
-single bold dash, Pepperell’s council very wisely concluded that it was
+single bold dash, Pepperell's council very wisely concluded that it was
 far better to hold fast what had been gained, than to risk all that was
 hoped for. They offered to lend the commodore five hundred soldiers, and
 six hundred sailors, if he would go and assault the Island Battery, in
-his turn, but Warren’s only reply was to urge the completion of the
+his turn, but Warren's only reply was to urge the completion of the
 Lighthouse Battery for that work.
 
 The siege had now continued thirty days without decisive results. So far
@@ -2111,7 +2143,7 @@ Maisonforte readily fell into the trap laid for him. He unhesitatingly
 wrote the letter as requested, it was sent to Duchambon by a flag, and
 was delivered by an officer who understood French, in order to observe
 its effect. The letter thus conveyed to Duchambon the disagreeable news
-of the Vigilant’s capture, of which he had been ignorant, and it made a
+of the Vigilant's capture, of which he had been ignorant, and it made a
 visible impression. He now knew that his determination to hold out in
 view of the expected succors from France, was of no further avail. This
 correspondence took place on the 7th.
@@ -2143,7 +2175,7 @@ had brought the siege practically to a close.
 On the 14th the whole fleet came to an anchor off the harbor in line of
 battle. It made a splendid and imposing array. At the same time the
 troops were mustered under arms, and exhorted to do their full duty when
-the order should be given them to advance upon the enemy’s works. In the
+the order should be given them to advance upon the enemy's works. In the
 midst of these final preparations for a combined and decisive assault,
 an ominous silence brooded over the doomed city. It was clear to all
 that the crisis was at hand.
@@ -2153,7 +2185,7 @@ captain could for the defence of the fortress. He saw an overwhelming
 force about to throw itself with irresistible power upon his dismantled
 walls, in every assailable part at once. His every hope of help from
 without had failed him. Food for his men and powder for his guns were
-nearly exhausted. He was now confronted with the soldier’s last dread
+nearly exhausted. He was now confronted with the soldier's last dread
 alternative of meeting an assault sword in hand, with but faint prospect
 of success, or of lowering the flag he had so gallantly defended. The
 wretched inhabitants, who had endured every privation cheerfully, so
@@ -2165,8 +2197,8 @@ The Fortress surrenders.
 On the 15th, in the afternoon, while the two chiefs of the expedition
 were in consultation together, Duchambon sent a flag to Pepperell
 proposing a suspension of hostilities until terms of capitulation should
-be agreed upon. This was at once granted until eight o’clock of the
-following morning. Duchambon’s proposals were then submitted and
+be agreed upon. This was at once granted until eight o'clock of the
+following morning. Duchambon's proposals were then submitted and
 rejected as inadmissible, but counter proposals were sent him, to which,
 on the same day, he gave his assent, by sending hostages to both
 Pepperell and Warren, saving only that the garrison should be allowed to
@@ -2174,17 +2206,17 @@ march out with the honors of war. For reasons to be looked for, no
 doubt, in his pride as a professional soldier, and in his reluctance to
 treat with any other, he addressed separate notes to the land and naval
 commanders. As neither felt disposed to stand upon a point of mere
-punctilio, Duchambon’s request was immediately acceded to. A striking
-difference, however, is to be observed between Pepperell’s and Warren’s
+punctilio, Duchambon's request was immediately acceded to. A striking
+difference, however, is to be observed between Pepperell's and Warren's
 replies to the French commander. In his own Pepperell generously, and
 honorably, makes the full ratification of this condition subject to
-Warren’s approval. In the commodore’s there is not one word found
+Warren's approval. In the commodore's there is not one word found
 concerning the general of the land forces, or of his approbation or
-disapprobation, any more than if he had never existed; but in Warren’s
-note the extraordinary condition is annexed “that the keys of the town
+disapprobation, any more than if he had never existed; but in Warren's
+note the extraordinary condition is annexed "that the keys of the town
 be delivered to such officers and troops _as I shall appoint to receive
 them_, and that all the cannon, warlike and other stores in the town, be
-also delivered up to the said officers.”
+also delivered up to the said officers."
 
 On the 17th Warren took formal possession of the Island Battery, and
 shortly after went into the city himself to confer with the governor. In
@@ -2192,13 +2224,13 @@ the meantime, conceiving it to be his right to receive the surrender,
 Pepperell had informed the governor of his intention to put a detachment
 of his own troops in occupation of the city defences that same
 afternoon. This communication was immediately shown to Warren, who at
-once addressed Pepperell, in evident irritation, upon the “irregularity”
+once addressed Pepperell, in evident irritation, upon the "irregularity"
 of his proceedings, until the articles of surrender should have been
 formally signed and sealed. The fact that he had just proposed to
 receive the surrender of the fortress himself was not even referred to,
 nor does it appear that Pepperell ever knew of it. One cannot overlook,
-therefore, the presence of some unworthy manœuvring, seconded by
-Duchambon’s professional vanity, to claim and obtain a share of the
+therefore, the presence of some unworthy manoeuvring, seconded by
+Duchambon's professional vanity, to claim and obtain a share of the
 honor of this glorious achievement, not only unwarranted by the part the
 navy had taken in it, since it had never fired a shot into Louisburg, or
 lost a man by its fire: but calculated to mislead public opinion in
@@ -2206,66 +2238,66 @@ England.
 
 An unpublished letter of General Dwight, written three days after the
 entry of the provincial troops, relates the closing scenes of this truly
-memorable contest. It runs as follows:—
+memorable contest. It runs as follows:--
 
     [Illustration: REMAINS OF CASEMATES AT LOUISBURG.]
 
-“We entered the city on Monday last (17th) about five o’clock P.M., with
+"We entered the city on Monday last (17th) about five o'clock P.M., with
 colors flying, drums, hautboys, violins, trumpets, etc. Gentlemen and
 ladies caressing (the French inhabitants) as well they might, for a New
-England dog would have died in the holes we drove them to—I mean the
+England dog would have died in the holes we drove them to--I mean the
 casemates where they dwelt during the siege.
 
-“This fortress is so valuable, as well as large and extensive, that we
+"This fortress is so valuable, as well as large and extensive, that we
 may say the one half has not been conceived.... Sometimes I am ready to
 say a thousand men in a thousand years could not effect it. Words cannot
 convey the idea of it.... One half of ye warlike stores for such a siege
 were not laid in; however, the Vigilant (French supply ship) being taken
-and Commodore Warren’s having some supply of stores from New England was
+and Commodore Warren's having some supply of stores from New England was
 very happy, and so it is that his readiness has been more than equal to
-his ability.”
+his ability."
 
 Governor Duchambon puts his whole force at thirteen hundred men at the
 beginning of the siege, and at eleven hundred at its close. About two
 thousand men were, however, included in the capitulation, of which
-number six hundred and fifty were veteran troops. The besiegers’ shot
+number six hundred and fifty were veteran troops. The besiegers' shot
 had wrought destruction in the city. There was not a building left
 unharmed or even habitable, by the fifteen thousand shot and shells that
-Pepperell’s batteries had thrown into it.
+Pepperell's batteries had thrown into it.
 
 When Pepperell saw the inside of Louisburg he probably realized for the
 first time the magnitude of the task he had undertaken. On looking
-around him, he said, with the expeditionary motto in mind no doubt, “The
-Almighty, of a truth, has been with us.”
+around him, he said, with the expeditionary motto in mind no doubt, "The
+Almighty, of a truth, has been with us."
 
 As the expedition began, so it now ended, with a prayer, which has come
 down to us as a part of its history. Pepperell celebrated his entry into
 Louisburg by giving a dinner to his officers. When they were seated at
 table, the general called upon his old friend and neighbor, the Rev. Mr.
-Moody of York, to ask the Divine blessing. As the parson’s prayers were
+Moody of York, to ask the Divine blessing. As the parson's prayers were
 proverbial for their length, the countenances of the guests fell when he
-arose from his chair, but to everybody’s surprise the venerable chaplain
+arose from his chair, but to everybody's surprise the venerable chaplain
 made his model and pithy appeal to the throne of grace in these words:
 
-“Good Lord! we have so many things to thank thee for, that time will be
+"Good Lord! we have so many things to thank thee for, that time will be
 infinitely too short to do it: we must therefore leave it for the work
-of eternity.”
+of eternity."
 
 [22]General John Nixon is one of those referred to.
 
-[23]Douglass (Summary), Belknap (“History of New Hampshire”) and
-    Hutchinson (“History of Massachusetts Bay”) have accounts of the
+[23]Douglass (Summary), Belknap ("History of New Hampshire") and
+    Hutchinson ("History of Massachusetts Bay") have accounts of the
     Louisburg expedition. Douglass and Hutchinson wrote
     contemporaneously, and were well informed, the latter especially,
     upon all points relating to the inception and organization. Of their
     military criticism it is needless to speak. There is a host of
     authorities, both French and English, most of which are collected in
-    Vol. V. “Narrative and Critical History of America.”
+    Vol. V. "Narrative and Critical History of America."
 
 [24]Richard Gridley subsequently laid out the works at Bunker Hill and
     Dorchester Heights, in much the same manner.
 
-[25]Shirley’s second messenger, Captain Loring, on presenting his
+[25]Shirley's second messenger, Captain Loring, on presenting his
     despatches, was allowed but twelve hours in London, being then
     ordered on board the Princess Mary, one of the ships referred to.
 
@@ -2295,7 +2327,7 @@ all England was in a ferment, and she hurrying back her troops from
 Holland in order to put down rebellion at home, thus leaving the
 coalition of which she was the head to stand or fall without her. France
 would not have stayed her victorious march, we think, under such
-circumstances as these, unless the nation’s attention had been forcibly
+circumstances as these, unless the nation's attention had been forcibly
 recalled to the gravity of the situation in America.
 
 In some respects this episode of history recalls the story of the mailed
@@ -2338,12 +2370,13 @@ her own security. The work was all undone with a stroke of the pen. The
 colonies were still to be the football of European politics.
 
 Nobody in the colonies supposed this would be the reward of their
-sacrifices—that they should be deliberately sold by the home government,
-or that France, after being once disarmed, would be quietly told to go
-on strengthening her American Gibraltar as much as she liked. Yet this
-was what really happened, notwithstanding the Duke of Newcastle’s
-bombastic declaration that “if France was master of Portsmouth, he would
-hang the man who should give up Cape Breton in exchange for it.”
+sacrifices--that they should be deliberately sold by the home
+government, or that France, after being once disarmed, would be quietly
+told to go on strengthening her American Gibraltar as much as she liked.
+Yet this was what really happened, notwithstanding the Duke of
+Newcastle's bombastic declaration that "if France was master of
+Portsmouth, he would hang the man who should give up Cape Breton in
+exchange for it."
 
 King George, who was in Hanover when he heard of the capture of
 Louisburg, sent word to Pepperell that he would be made a baronet, thus
@@ -2359,7 +2392,7 @@ money, obtained from ships that were decoyed into Louisburg after it
 fell, to the exclusion of the army.[28] This disposition of the spoils
 was highly resented by the army, who very justly alleged that, while the
 success of the army without the fleet might be open to debate, there
-could be no question whatever of the fleet’s inability to take Louisburg
+could be no question whatever of the fleet's inability to take Louisburg
 without the army.
 
 [26]The surrender caused great rejoicing in the colonies, as was natural
@@ -2371,19 +2404,19 @@ without the army.
     reached London on the 20th. The Tower guns were fired, and at night
     London was illuminated. Similar demonstrations occurred in all the
     cities and large towns of the kingdom. At Versailles the news caused
-    deep gloom. De Luynes speaks of it thus in his Memoirs: “People have
+    deep gloom. De Luynes speaks of it thus in his Memoirs: "People have
     been willing to doubt about this affair of Louisburg, but unhappily
     it is only too certain. These misfortunes have given rise to
     altercations among ministers. It is urged that M. Maurepas is at
     fault in having allowed Louisburg to fall for want of munitions. The
     friends of M. Maurepas contend that he did all that was possible,
-    but could not obtain the necessary funds from the Treasury.” The
+    but could not obtain the necessary funds from the Treasury." The
     government got ready two fleets to retake Louisburg. One was
     scattered or sunk by storms in 1746, and one was destroyed by Lord
     Anson, in 1747, off Cape Finisterre.
 
-[27]The amount was £183,649 to Massachusetts, £16,355 to New Hampshire,
-    £28,863 to Connecticut, and £6,332 to Rhode Island. Quite a large
+[27]The amount was �183,649 to Massachusetts, �16,355 to New Hampshire,
+    �28,863 to Connecticut, and �6,332 to Rhode Island. Quite a large
     portion was paid in copper coins.
 
 [28]Among others the navy took a Spanish Indiaman, having $2,000,000,
@@ -2438,7 +2471,7 @@ without the army.
       advantageous situation as a port of delivery and supply, 29;
       left to Canada by stupid diplomacy, 30;
       its chief harbors, 31;
-      the Bras d’Or, 31;
+      the Bras d'Or, 31;
       called Ile Royale, 32;
       plan for getting colonists, 33, 34;
       strategic points on the straits, 76;
@@ -2579,7 +2612,7 @@ without the army.
   Moody, Rev. Samuel, his pithy prayer, 124.
   Moore, Samuel, at Louisburg, _note_ 72.
   Moulton, Jeremiah, at Louisburg, _note_ 71;
-      destroys St. Peter’s, 96.
+      destroys St. Peter's, 96.
 
 
                                     N
@@ -2611,15 +2644,15 @@ without the army.
       his regiment, _note_ 70;
       hampered by instructions, 75;
       finds Louisburg blocked up by ice, 77;
-      hails Warren’s arrival with joy, 78;
+      hails Warren's arrival with joy, 78;
       confident of driving the enemy from Cape Breton, 79;
-      finds Shirley’s plan impracticable, 83;
+      finds Shirley's plan impracticable, 83;
       finds his task greater than he had supposed, 90;
       his advances against the city properly made, 93;
       is goaded into attacking the Island Battery, 112;
       pushes forward preparations for a general assault, 116;
       grants an armistice, 118;
-      his conduct contrasted with Warren’s, 119;
+      his conduct contrasted with Warren's, 119;
       made a baronet, 130.
   Pitts, Ebenezer, at Louisburg, _note_ 71.
   Pomeroy, Major Seth, at Louisburg, 89;
@@ -2646,7 +2679,7 @@ without the army.
                                     S
   St. Anne, described, 31.
   Saint Ovide, at Louisburg, 35.
-  St. Peter’s, destruction of, determined on, 76;
+  St. Peter's, destruction of, determined on, 76;
       is effected, 96.
   Seacoast defences of Mexico, Cuba, etc., 9;
       of the English colonies, 10, 11;
@@ -2706,18 +2739,18 @@ without the army.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Retained publication and copyright information from the original; this
+--Retained publication and copyright information from the original; this
   eBook is public-domain in the U.S.
 
-—Silently corrected a few palpable typographical errors.
+--Silently corrected a few palpable typographical errors.
 
-—Retained the consistent spelling “Pepperell” for the man usually known
-  as “Pepperrell”
+--Retained the consistent spelling "Pepperell" for the man usually known
+  as "Pepperrell"
 
-—In the text versions, enclosed italicized text in _underscore_.
+--In the text versions, enclosed italicized text in _underscore_.
 
 
 
@@ -2727,4 +2760,367 @@ without the army.
 
 End of Project Gutenberg's The Taking of Louisburg 1745, by Samuel Adams Drake
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50583 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE TAKING OF LOUISBURG 1745 ***
+
+***** This file should be named 50583-8.txt or 50583-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/5/8/50583/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
